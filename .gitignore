@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Node (not used, but safe to ignore)
+node_modules/
+
+# Local secrets (never commit real credentials)
+secrets.json
+.env
